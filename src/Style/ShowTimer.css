@@ -1,0 +1,8 @@
+/* Styles for ShowTimer component */
+
+.Wrap {
+  background: linear-gradient(to right, #24c6dc, #24c6dc 100%);
+  border-radius: 1rem;
+  margin: 1rem 0; /* Adjust margin */
+  width: 4.5rem;
+}
